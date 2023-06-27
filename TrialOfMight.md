@@ -7,7 +7,7 @@
 *Used command:* ls, get-command
 
 ## *password lvl 3-4:* 
-*Used command:* **ls and counted manually, not very well method but in this case the fastest for me**
+*Used command:* **ls and counted manually, not very effective method but in this case the fastest for me**
 
 ## *password lvl 4-5:* 
 *Used command:* dir, cd
