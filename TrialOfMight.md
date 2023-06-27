@@ -32,8 +32,8 @@ $A.count
 ## *password lvl 9-10:* 
 *Used command:*
 $content = Get-Content -Path "C:\users\century9\desktop\Word_File.txt"
-$words = $content -split ' ' **<-spliting lines into a words**
-$item = $words[160]			**<-in powershell position 161 has index 160 (cause it starts from 0)**
+$words = $content -split ' '    **<-spliting lines into a words**
+$item = $words[160]		**<-in powershell position 161 has index 160 (cause it starts from 0)**
 Write-Output $item
 
 ## *password lvl 10-11:* 
