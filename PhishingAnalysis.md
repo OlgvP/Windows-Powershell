@@ -48,5 +48,26 @@ finishig by "@paypal.be" or "@s.paypal.be" are fake and is sure that **is phishi
 ## *Email_2*
 
 
+Recived from: stainless@midnightmagicevents.com
+
+At first sight we can see that the e-mail looks poor. The domain name "midnightmagicevents.com" doesn't compare with 
+the content of e-mail and is sure that is not the domain of "trust wallet".
+Source code has 16 lines and doesnt look like secure source. Botton "Go to verification" redirects to climovil.com
+
+![email2](https://github.com/OlgvP/Windows-Powershell/assets/133352245/09cee6e1-da8d-409a-a8cc-abfec3936f98)
+
+I checked climovil.com on urlvoid.com and virustotal.com and I recived following information:
+
+![emai2_2](https://github.com/OlgvP/Windows-Powershell/assets/133352245/0b394339-23c1-4890-ab1f-ac26b55371b3)
+
+![email2_3](https://github.com/OlgvP/Windows-Powershell/assets/133352245/5c9c57f5-6cc0-46b4-95af-873f5e5dc6e1)
+
+![email2_4](https://github.com/OlgvP/Windows-Powershell/assets/133352245/aaec7620-299d-4a0d-b2e2-f0a3e8aa85ed)
+
+
+As we can see this e-mail has nothing common with "trust wallet", addres ip 
+of the server is from Mexico. On virustotal.com 1 security vendor flagged this URLas malicious. Information from Urlvoid.com 
+showing us that is definetely not "trust wallet".
+**Im sure that is pishing e-mail.**
 
 
