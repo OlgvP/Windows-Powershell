@@ -101,7 +101,8 @@ As first sight this e-mail looks like spam. Is poorly written and domain belongs
 Before even look inside we see information that sender this e-mail is Dan Miller, 
 I did fast research (google, facebook, linkednl, wikipedia) and I didn't found any Dan Miller working in 
 the United Nations Special Representative for Disaster Risk Reduction (UNDRR).
-E
+Even the tittle of the mail: Re: RELIEF / COMPENSATION FUND OF $1,500,000.00 USD looks like responding mail (Re:),
+not like a e-mail addressed to us.
 
 ![email4](https://github.com/OlgvP/Windows-Powershell/assets/133352245/6cc2408c-a39d-40b6-bab8-38931b93fcb1)
 
