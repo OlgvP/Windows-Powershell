@@ -118,3 +118,26 @@ No one is never sending money to random people in the internet.
 
 **This mail is phishing mail.**
 
+## *Email_5*
+
+Recived from: Ariana<newsmail@app9l.serenitepure.fr>
+Sender: 	Ariana<news@app9l.serenitepure.fr>
+Reply-To:   Ariana<news@aichakandisha.com>
+
+<img width="1421" alt="Screenshot_2023-06-28_at_16 11 45" src="https://github.com/OlgvP/Windows-Powershell/assets/133352245/b762e402-90f7-4e61-b079-d959ecefd51d">
+ 
+The domain name we recived this mail doesn't look secure, looks like a scam. We have 3 different mails addresses.
+Address we recived this mail from is different than: 
+the sender address and address we can reply for this mail. It is a first sing that it can be phishing.
+After I opened the source code of this mail I checked where we are going to be redirected when we click on the botton "probeer nu gratis uit"
+
+![email_5_2](https://github.com/OlgvP/Windows-Powershell/assets/133352245/d00848f2-656d-4eb7-85c3-a12e9a530db3)
+
+I checked the link on virustotal.com and it detected phishing and malicious.
+
+![email5_1](https://github.com/OlgvP/Windows-Powershell/assets/133352245/4f87e772-2c3e-41b4-b9c7-e930ca17f536)
+
+
+**Im sure that this is phishing e-mail.**
+
+
