@@ -70,4 +70,25 @@ of the server is from Mexico. On virustotal.com 1 security vendor flagged this U
 showing us that is definetely not "trust wallet".
 **Im sure that is pishing e-mail.**
 
+## *Email_3*
+
+Recived from: gq@80-78-255-128.cloudvps.regruhosting.ru
+
+This mail is not from Tinder. We can see that address domain is from russia and is definetely not address domain of Tinder.
+I checked source code the mail and if we click on botton "find out who" we are going to be redirect to "htt[p]://[bl]og.tulingxueyuan.cn/contradictedqm.php?utm_campaign=tpdjuresn
+blog.tulingxueyuan.cn"
+
+![email3](https://github.com/OlgvP/Windows-Powershell/assets/133352245/7461b36c-85c5-44e1-b6c6-20ede0ac74d2)
+
+I checked the domain address on urlvoid.com.
+
+![email3_1](https://github.com/OlgvP/Windows-Powershell/assets/133352245/e2fa76cc-0d1e-4af6-b244-3c52edd6ab8c)
+
+I chceck the domain of e-mail and the link we are going to be redirected if we click on botton, on virustotal.com.
+Both of them are full of notification: "Pishing", "Malware", "Malicious"
+
+![email3_2](https://github.com/OlgvP/Windows-Powershell/assets/133352245/d4504709-21ea-42a0-b94d-41d78a3e62f2)
+![email3_3](https://github.com/OlgvP/Windows-Powershell/assets/133352245/040a7beb-6868-466c-aa9b-69af90a3bfb5)
+
+
 
