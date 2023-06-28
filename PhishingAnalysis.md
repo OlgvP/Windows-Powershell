@@ -91,4 +91,27 @@ Both of them are full of notification: "Pishing", "Malware", "Malicious"
 ![email3_3](https://github.com/OlgvP/Windows-Powershell/assets/133352245/040a7beb-6868-466c-aa9b-69af90a3bfb5)
 
 
+## *Email_4*
+
+Recived from: <babakingsouthmichael@gmail.com>
+
+As first sight this e-mail looks like spam. Is poorly written and domain belongs to a private user (domain gmail.com is a domain for private users).
+Before even look inside we see information that sender this e-mail is Dan Miller, 
+I did fast research (google, facebook, linkednl, wikipedia) and I didn't found any Dan Miller working in 
+the United Nations Special Representative for Disaster Risk Reduction (UNDRR).
+E
+
+![email4](https://github.com/OlgvP/Windows-Powershell/assets/133352245/6cc2408c-a39d-40b6-bab8-38931b93fcb1)
+
+
+
+I found also the web page, that helps with this type of spam called  "419" scam (aka "Nigeria scam" or "West African" scam),
+there is a link to the list with spam-mails: http://www.419scam.org/419-bl-b.htm and our mail "<babakingsouthmichael@gmail.com>" is there.
+
+![email3_4](https://github.com/OlgvP/Windows-Powershell/assets/133352245/717b976a-d426-44e2-bc08-552fc47880ad)
+
+The content of this mail is incredible. 
+No one is never sending money to random people in the internet.
+
+*This mail is phishing mail.*
 
