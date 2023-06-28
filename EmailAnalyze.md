@@ -40,7 +40,7 @@ I copied the link and checked on virustotal.com, resultats showed that link shou
 
 I didn't saw anything suspicious but as the last step I decided to check in google If paypal really has the service
 with this address mail, and I found many articles, one on offical Police web page that is confirmed that addresses emails
-finishig by "@paypal.be" or "@s.paypal.be" are fake and is sure that *is phishing*.
+finishig by "@paypal.be" or "@s.paypal.be" are fake and is sure that **is phishing!**.
 
 ![email1_4 jpg](https://github.com/OlgvP/Windows-Powershell/assets/133352245/ce28ae1d-074e-4bf7-a323-ab34d605d256)
 
