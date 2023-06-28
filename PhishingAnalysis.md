@@ -68,7 +68,7 @@ I checked climovil.com on urlvoid.com and virustotal.com and I recived following
 As we can see this e-mail has nothing common with "trust wallet", addres ip 
 of the server is from Mexico. On virustotal.com 1 security vendor flagged this URLas malicious. Information from Urlvoid.com 
 showing us that is definetely not "trust wallet".
-**Im sure that is pishing e-mail.**
+**Im sure that is phishing e-mail.**
 
 ## *Email_3*
 
@@ -85,10 +85,12 @@ I checked the domain address on urlvoid.com.
 ![email3_1](https://github.com/OlgvP/Windows-Powershell/assets/133352245/e2fa76cc-0d1e-4af6-b244-3c52edd6ab8c)
 
 I chceck the domain of e-mail and the link we are going to be redirected if we click on botton, on virustotal.com.
-Both of them are full of notification: "Pishing", "Malware", "Malicious"
+Both of them are full of notification: "Phishing", "Malware", "Malicious"
 
 ![email3_2](https://github.com/OlgvP/Windows-Powershell/assets/133352245/d4504709-21ea-42a0-b94d-41d78a3e62f2)
 ![email3_3](https://github.com/OlgvP/Windows-Powershell/assets/133352245/040a7beb-6868-466c-aa9b-69af90a3bfb5)
+
+**This e-mail is phishing!**
 
 
 ## *Email_4*
@@ -113,5 +115,5 @@ there is a link to the list with spam-mails: http://www.419scam.org/419-bl-b.htm
 The content of this mail is incredible. 
 No one is never sending money to random people in the internet.
 
-*This mail is phishing mail.*
+**This mail is phishing mail.**
 
